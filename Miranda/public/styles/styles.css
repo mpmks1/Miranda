@@ -1,3 +1,8 @@
 .list-group-item {
   line-height: 2.5;
 }
+
+body {
+  background-image: url("http://cdn.designbeep.com/wp-content/uploads/2012/09/1.old-book-textures.jpg");
+  background-color: #04d9ff;
+ }
